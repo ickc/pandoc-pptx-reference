@@ -25,7 +25,12 @@
             <p:ph type="sldImg"/>
           </p:nvPr>
         </p:nvSpPr>
-        <p:spPr/>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="685800" y="1143000"/>
+            <a:ext cx="5486400" cy="3086100"/>
+          </a:xfrm>
+        </p:spPr>
       </p:sp>
       <p:sp>
         <p:nvSpPr>
@@ -48,7 +53,7 @@
             </a:r>
             <a:r>
               <a:rPr lang="en-US" baseline="0" dirty="0"/>
-              <a:t> speaker note on </a:t>
+              <a:t> speaker note on</a:t>
             </a:r>
             <a:r>
               <a:rPr lang="en-US" baseline="0"/>

@@ -48,15 +48,7 @@
             <p:ph type="ftr" sz="quarter" idx="11"/>
           </p:nvPr>
         </p:nvSpPr>
-        <p:spPr>
-          <a:xfrm>
-            <a:off x="685800" y="6272785"/>
-            <a:ext cx="4745736" cy="365125"/>
-          </a:xfrm>
-          <a:prstGeom prst="rect">
-            <a:avLst/>
-          </a:prstGeom>
-        </p:spPr>
+        <p:spPr/>
         <p:txBody>
           <a:bodyPr/>
           <a:lstStyle/>
@@ -91,7 +83,7 @@
     </p:spTree>
     <p:extLst>
       <p:ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
-        <p14:creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="3450184474"/>
+        <p14:creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="3616401251"/>
       </p:ext>
     </p:extLst>
   </p:cSld>

@@ -27,8 +27,8 @@
         </p:nvSpPr>
         <p:spPr>
           <a:xfrm>
-            <a:off x="6543675" y="533400"/>
-            <a:ext cx="1914525" cy="5638800"/>
+            <a:off x="8724900" y="533400"/>
+            <a:ext cx="2552700" cy="5638800"/>
           </a:xfrm>
         </p:spPr>
         <p:txBody>
@@ -55,8 +55,8 @@
         </p:nvSpPr>
         <p:spPr>
           <a:xfrm>
-            <a:off x="800100" y="533400"/>
-            <a:ext cx="5629275" cy="5638800"/>
+            <a:off x="1066800" y="533400"/>
+            <a:ext cx="7505700" cy="5638800"/>
           </a:xfrm>
         </p:spPr>
         <p:txBody>
@@ -102,7 +102,7 @@
       </p:sp>
       <p:sp>
         <p:nvSpPr>
-          <p:cNvPr id="7" name="Date Placeholder 6"/>
+          <p:cNvPr id="4" name="Date Placeholder 3"/>
           <p:cNvSpPr>
             <a:spLocks noGrp="1"/>
           </p:cNvSpPr>
@@ -125,7 +125,7 @@
       </p:sp>
       <p:sp>
         <p:nvSpPr>
-          <p:cNvPr id="8" name="Footer Placeholder 7"/>
+          <p:cNvPr id="5" name="Footer Placeholder 4"/>
           <p:cNvSpPr>
             <a:spLocks noGrp="1"/>
           </p:cNvSpPr>
@@ -133,15 +133,7 @@
             <p:ph type="ftr" sz="quarter" idx="11"/>
           </p:nvPr>
         </p:nvSpPr>
-        <p:spPr>
-          <a:xfrm>
-            <a:off x="685800" y="6272785"/>
-            <a:ext cx="4745736" cy="365125"/>
-          </a:xfrm>
-          <a:prstGeom prst="rect">
-            <a:avLst/>
-          </a:prstGeom>
-        </p:spPr>
+        <p:spPr/>
         <p:txBody>
           <a:bodyPr/>
           <a:lstStyle/>
@@ -152,7 +144,7 @@
       </p:sp>
       <p:sp>
         <p:nvSpPr>
-          <p:cNvPr id="9" name="Slide Number Placeholder 8"/>
+          <p:cNvPr id="6" name="Slide Number Placeholder 5"/>
           <p:cNvSpPr>
             <a:spLocks noGrp="1"/>
           </p:cNvSpPr>
@@ -176,7 +168,7 @@
     </p:spTree>
     <p:extLst>
       <p:ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
-        <p14:creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="3931986946"/>
+        <p14:creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="2573421287"/>
       </p:ext>
     </p:extLst>
   </p:cSld>

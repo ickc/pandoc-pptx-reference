@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
-  <Template>{A6C7CDFE-022C-394C-A0E2-62A6A682E02A}tf10001070</Template>
-  <TotalTime>9</TotalTime>
+  <Template>Wood Type</Template>
+  <TotalTime>13</TotalTime>
   <Words>47</Words>
   <Application>Microsoft Macintosh PowerPoint</Application>
-  <PresentationFormat>On-screen Show (4:3)</PresentationFormat>
+  <PresentationFormat>Widescreen</PresentationFormat>
   <Paragraphs>15</Paragraphs>
   <Slides>4</Slides>
   <Notes>2</Notes>
@@ -17,7 +17,7 @@
         <vt:lpstr>Fonts Used</vt:lpstr>
       </vt:variant>
       <vt:variant>
-        <vt:i4>9</vt:i4>
+        <vt:i4>8</vt:i4>
       </vt:variant>
       <vt:variant>
         <vt:lpstr>Theme</vt:lpstr>
@@ -34,14 +34,13 @@
     </vt:vector>
   </HeadingPairs>
   <TitlesOfParts>
-    <vt:vector size="14" baseType="lpstr">
+    <vt:vector size="13" baseType="lpstr">
       <vt:lpstr>Arial</vt:lpstr>
+      <vt:lpstr>Arial Black</vt:lpstr>
       <vt:lpstr>Calibri</vt:lpstr>
       <vt:lpstr>Latin Modern Roman 10</vt:lpstr>
       <vt:lpstr>Latin Modern Roman Caps 10</vt:lpstr>
       <vt:lpstr>Latin Modern Sans 10</vt:lpstr>
-      <vt:lpstr>Latin Modern Sans 8</vt:lpstr>
-      <vt:lpstr>Latin Modern Sans 9</vt:lpstr>
       <vt:lpstr>Rockwell Extra Bold</vt:lpstr>
       <vt:lpstr>Wingdings</vt:lpstr>
       <vt:lpstr>Wood Type</vt:lpstr>
