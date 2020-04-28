@@ -31,10 +31,9 @@
           <a:lstStyle/>
           <a:p>
             <a:r>
-              <a:rPr lang="en-US" dirty="0" smtClean="0"/>
+              <a:rPr lang="en-US" dirty="0"/>
               <a:t>Slide Title for Two-Content</a:t>
             </a:r>
-            <a:endParaRPr lang="en-US" dirty="0"/>
           </a:p>
         </p:txBody>
       </p:sp>
@@ -54,14 +53,14 @@
           <a:lstStyle/>
           <a:p>
             <a:r>
-              <a:rPr lang="en-US" dirty="0" smtClean="0"/>
+              <a:rPr lang="en-US" dirty="0"/>
               <a:t>Some content on </a:t>
             </a:r>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>the left.</a:t>
             </a:r>
-            <a:endParaRPr lang="en-US" dirty="0" smtClean="0"/>
+            <a:endParaRPr lang="en-US" dirty="0"/>
           </a:p>
           <a:p>
             <a:pPr marL="0" indent="0">
@@ -87,10 +86,9 @@
           <a:lstStyle/>
           <a:p>
             <a:r>
-              <a:rPr lang="en-US" dirty="0" smtClean="0"/>
+              <a:rPr lang="en-US" dirty="0"/>
               <a:t>Some content on the right.</a:t>
             </a:r>
-            <a:endParaRPr lang="en-US" dirty="0"/>
           </a:p>
         </p:txBody>
       </p:sp>

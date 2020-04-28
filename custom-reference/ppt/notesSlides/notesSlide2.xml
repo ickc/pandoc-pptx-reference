@@ -43,15 +43,15 @@
           <a:lstStyle/>
           <a:p>
             <a:r>
-              <a:rPr lang="en-US" dirty="0" smtClean="0"/>
+              <a:rPr lang="en-US" dirty="0"/>
               <a:t>A</a:t>
             </a:r>
             <a:r>
-              <a:rPr lang="en-US" baseline="0" dirty="0" smtClean="0"/>
+              <a:rPr lang="en-US" baseline="0" dirty="0"/>
               <a:t> speaker note on </a:t>
             </a:r>
             <a:r>
-              <a:rPr lang="en-US" baseline="0" smtClean="0"/>
+              <a:rPr lang="en-US" baseline="0"/>
               <a:t>this slide too.</a:t>
             </a:r>
             <a:endParaRPr lang="en-US"/>

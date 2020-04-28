@@ -27,8 +27,8 @@
         </p:nvSpPr>
         <p:spPr>
           <a:xfrm>
-            <a:off x="6629400" y="274638"/>
-            <a:ext cx="2057400" cy="5851525"/>
+            <a:off x="6543675" y="533400"/>
+            <a:ext cx="1914525" cy="5638800"/>
           </a:xfrm>
         </p:spPr>
         <p:txBody>
@@ -36,10 +36,10 @@
           <a:lstStyle/>
           <a:p>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>Click to edit Master title style</a:t>
             </a:r>
-            <a:endParaRPr lang="en-US"/>
+            <a:endParaRPr lang="en-US" dirty="0"/>
           </a:p>
         </p:txBody>
       </p:sp>
@@ -55,8 +55,8 @@
         </p:nvSpPr>
         <p:spPr>
           <a:xfrm>
-            <a:off x="457200" y="274638"/>
-            <a:ext cx="6019800" cy="5851525"/>
+            <a:off x="800100" y="533400"/>
+            <a:ext cx="5629275" cy="5638800"/>
           </a:xfrm>
         </p:spPr>
         <p:txBody>
@@ -65,44 +65,44 @@
           <a:p>
             <a:pPr lvl="0"/>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>Click to edit Master text styles</a:t>
             </a:r>
           </a:p>
           <a:p>
             <a:pPr lvl="1"/>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>Second level</a:t>
             </a:r>
           </a:p>
           <a:p>
             <a:pPr lvl="2"/>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>Third level</a:t>
             </a:r>
           </a:p>
           <a:p>
             <a:pPr lvl="3"/>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>Fourth level</a:t>
             </a:r>
           </a:p>
           <a:p>
             <a:pPr lvl="4"/>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>Fifth level</a:t>
             </a:r>
-            <a:endParaRPr lang="en-US"/>
+            <a:endParaRPr lang="en-US" dirty="0"/>
           </a:p>
         </p:txBody>
       </p:sp>
       <p:sp>
         <p:nvSpPr>
-          <p:cNvPr id="4" name="Date Placeholder 3"/>
+          <p:cNvPr id="7" name="Date Placeholder 6"/>
           <p:cNvSpPr>
             <a:spLocks noGrp="1"/>
           </p:cNvSpPr>
@@ -117,7 +117,7 @@
           <a:p>
             <a:fld id="{241EB5C9-1307-BA42-ABA2-0BC069CD8E7F}" type="datetimeFigureOut">
               <a:rPr lang="en-US" smtClean="0"/>
-              <a:t>4/5/2019</a:t>
+              <a:t>4/27/20</a:t>
             </a:fld>
             <a:endParaRPr lang="en-US"/>
           </a:p>
@@ -125,7 +125,7 @@
       </p:sp>
       <p:sp>
         <p:nvSpPr>
-          <p:cNvPr id="5" name="Footer Placeholder 4"/>
+          <p:cNvPr id="8" name="Footer Placeholder 7"/>
           <p:cNvSpPr>
             <a:spLocks noGrp="1"/>
           </p:cNvSpPr>
@@ -144,7 +144,7 @@
       </p:sp>
       <p:sp>
         <p:nvSpPr>
-          <p:cNvPr id="6" name="Slide Number Placeholder 5"/>
+          <p:cNvPr id="9" name="Slide Number Placeholder 8"/>
           <p:cNvSpPr>
             <a:spLocks noGrp="1"/>
           </p:cNvSpPr>
@@ -168,7 +168,7 @@
     </p:spTree>
     <p:extLst>
       <p:ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
-        <p14:creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="2581529045"/>
+        <p14:creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="3931986946"/>
       </p:ext>
     </p:extLst>
   </p:cSld>

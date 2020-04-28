@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<p:sldLayout xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" type="twoTxTwoObj" preserve="1">
+<p:sldLayout xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" preserve="1">
   <p:cSld name="Comparison">
     <p:spTree>
       <p:nvGrpSpPr>
@@ -17,33 +17,6 @@
       </p:grpSpPr>
       <p:sp>
         <p:nvSpPr>
-          <p:cNvPr id="2" name="Title 1"/>
-          <p:cNvSpPr>
-            <a:spLocks noGrp="1"/>
-          </p:cNvSpPr>
-          <p:nvPr>
-            <p:ph type="title"/>
-          </p:nvPr>
-        </p:nvSpPr>
-        <p:spPr/>
-        <p:txBody>
-          <a:bodyPr/>
-          <a:lstStyle>
-            <a:lvl1pPr>
-              <a:defRPr/>
-            </a:lvl1pPr>
-          </a:lstStyle>
-          <a:p>
-            <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
-              <a:t>Click to edit Master title style</a:t>
-            </a:r>
-            <a:endParaRPr lang="en-US"/>
-          </a:p>
-        </p:txBody>
-      </p:sp>
-      <p:sp>
-        <p:nvSpPr>
           <p:cNvPr id="3" name="Text Placeholder 2"/>
           <p:cNvSpPr>
             <a:spLocks noGrp="1"/>
@@ -54,16 +27,24 @@
         </p:nvSpPr>
         <p:spPr>
           <a:xfrm>
-            <a:off x="457200" y="1535113"/>
-            <a:ext cx="4040188" cy="639762"/>
+            <a:off x="685800" y="2048256"/>
+            <a:ext cx="3657600" cy="640080"/>
           </a:xfrm>
         </p:spPr>
         <p:txBody>
-          <a:bodyPr anchor="b"/>
+          <a:bodyPr anchor="ctr">
+            <a:normAutofit/>
+          </a:bodyPr>
           <a:lstStyle>
             <a:lvl1pPr marL="0" indent="0">
               <a:buNone/>
-              <a:defRPr sz="2400" b="1"/>
+              <a:defRPr sz="2000" b="1">
+                <a:solidFill>
+                  <a:schemeClr val="accent1">
+                    <a:lumMod val="75000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+              </a:defRPr>
             </a:lvl1pPr>
             <a:lvl2pPr marL="457200" indent="0">
               <a:buNone/>
@@ -101,7 +82,7 @@
           <a:p>
             <a:pPr lvl="0"/>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>Click to edit Master text styles</a:t>
             </a:r>
           </a:p>
@@ -119,21 +100,21 @@
         </p:nvSpPr>
         <p:spPr>
           <a:xfrm>
-            <a:off x="457200" y="2174875"/>
-            <a:ext cx="4040188" cy="3951288"/>
+            <a:off x="685800" y="2743200"/>
+            <a:ext cx="3657600" cy="3291840"/>
           </a:xfrm>
         </p:spPr>
         <p:txBody>
           <a:bodyPr/>
           <a:lstStyle>
             <a:lvl1pPr>
-              <a:defRPr sz="2400"/>
+              <a:defRPr sz="2000"/>
             </a:lvl1pPr>
             <a:lvl2pPr>
-              <a:defRPr sz="2000"/>
+              <a:defRPr sz="1800"/>
             </a:lvl2pPr>
             <a:lvl3pPr>
-              <a:defRPr sz="1800"/>
+              <a:defRPr sz="1600"/>
             </a:lvl3pPr>
             <a:lvl4pPr>
               <a:defRPr sz="1600"/>
@@ -157,38 +138,38 @@
           <a:p>
             <a:pPr lvl="0"/>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>Click to edit Master text styles</a:t>
             </a:r>
           </a:p>
           <a:p>
             <a:pPr lvl="1"/>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>Second level</a:t>
             </a:r>
           </a:p>
           <a:p>
             <a:pPr lvl="2"/>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>Third level</a:t>
             </a:r>
           </a:p>
           <a:p>
             <a:pPr lvl="3"/>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>Fourth level</a:t>
             </a:r>
           </a:p>
           <a:p>
             <a:pPr lvl="4"/>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>Fifth level</a:t>
             </a:r>
-            <a:endParaRPr lang="en-US"/>
+            <a:endParaRPr lang="en-US" dirty="0"/>
           </a:p>
         </p:txBody>
       </p:sp>
@@ -204,16 +185,24 @@
         </p:nvSpPr>
         <p:spPr>
           <a:xfrm>
-            <a:off x="4645025" y="1535113"/>
-            <a:ext cx="4041775" cy="639762"/>
+            <a:off x="4820793" y="2048256"/>
+            <a:ext cx="3657600" cy="640080"/>
           </a:xfrm>
         </p:spPr>
         <p:txBody>
-          <a:bodyPr anchor="b"/>
+          <a:bodyPr anchor="ctr">
+            <a:normAutofit/>
+          </a:bodyPr>
           <a:lstStyle>
             <a:lvl1pPr marL="0" indent="0">
               <a:buNone/>
-              <a:defRPr sz="2400" b="1"/>
+              <a:defRPr sz="2000" b="1">
+                <a:solidFill>
+                  <a:schemeClr val="accent1">
+                    <a:lumMod val="75000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+              </a:defRPr>
             </a:lvl1pPr>
             <a:lvl2pPr marL="457200" indent="0">
               <a:buNone/>
@@ -251,7 +240,7 @@
           <a:p>
             <a:pPr lvl="0"/>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>Click to edit Master text styles</a:t>
             </a:r>
           </a:p>
@@ -269,21 +258,21 @@
         </p:nvSpPr>
         <p:spPr>
           <a:xfrm>
-            <a:off x="4645025" y="2174875"/>
-            <a:ext cx="4041775" cy="3951288"/>
+            <a:off x="4820793" y="2743200"/>
+            <a:ext cx="3657600" cy="3291840"/>
           </a:xfrm>
         </p:spPr>
         <p:txBody>
           <a:bodyPr/>
           <a:lstStyle>
             <a:lvl1pPr>
-              <a:defRPr sz="2400"/>
+              <a:defRPr sz="2000"/>
             </a:lvl1pPr>
             <a:lvl2pPr>
-              <a:defRPr sz="2000"/>
+              <a:defRPr sz="1800"/>
             </a:lvl2pPr>
             <a:lvl3pPr>
-              <a:defRPr sz="1800"/>
+              <a:defRPr sz="1600"/>
             </a:lvl3pPr>
             <a:lvl4pPr>
               <a:defRPr sz="1600"/>
@@ -307,38 +296,38 @@
           <a:p>
             <a:pPr lvl="0"/>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>Click to edit Master text styles</a:t>
             </a:r>
           </a:p>
           <a:p>
             <a:pPr lvl="1"/>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>Second level</a:t>
             </a:r>
           </a:p>
           <a:p>
             <a:pPr lvl="2"/>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>Third level</a:t>
             </a:r>
           </a:p>
           <a:p>
             <a:pPr lvl="3"/>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>Fourth level</a:t>
             </a:r>
           </a:p>
           <a:p>
             <a:pPr lvl="4"/>
             <a:r>
-              <a:rPr lang="en-US" smtClean="0"/>
+              <a:rPr lang="en-US"/>
               <a:t>Fifth level</a:t>
             </a:r>
-            <a:endParaRPr lang="en-US"/>
+            <a:endParaRPr lang="en-US" dirty="0"/>
           </a:p>
         </p:txBody>
       </p:sp>
@@ -359,7 +348,7 @@
           <a:p>
             <a:fld id="{241EB5C9-1307-BA42-ABA2-0BC069CD8E7F}" type="datetimeFigureOut">
               <a:rPr lang="en-US" smtClean="0"/>
-              <a:t>4/5/2019</a:t>
+              <a:t>4/27/20</a:t>
             </a:fld>
             <a:endParaRPr lang="en-US"/>
           </a:p>
@@ -407,14 +396,42 @@
           </a:p>
         </p:txBody>
       </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="10" name="Title 9"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="title"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr/>
+        <p:txBody>
+          <a:bodyPr/>
+          <a:lstStyle/>
+          <a:p>
+            <a:r>
+              <a:rPr lang="en-US"/>
+              <a:t>Click to edit Master title style</a:t>
+            </a:r>
+            <a:endParaRPr lang="en-US" dirty="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
     </p:spTree>
     <p:extLst>
       <p:ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
-        <p14:creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="2535793967"/>
+        <p14:creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="376517848"/>
       </p:ext>
     </p:extLst>
   </p:cSld>
   <p:clrMapOvr>
     <a:masterClrMapping/>
   </p:clrMapOvr>
+  <p:extLst>
+    <p:ext uri="{DCECCB84-F9BA-43D5-87BE-67443E8EF086}">
+      <p15:sldGuideLst xmlns:p15="http://schemas.microsoft.com/office/powerpoint/2012/main"/>
+    </p:ext>
+  </p:extLst>
 </p:sldLayout>

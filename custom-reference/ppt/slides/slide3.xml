@@ -31,10 +31,9 @@
           <a:lstStyle/>
           <a:p>
             <a:r>
-              <a:rPr lang="en-US" dirty="0" smtClean="0"/>
+              <a:rPr lang="en-US" dirty="0"/>
               <a:t>Section header</a:t>
             </a:r>
-            <a:endParaRPr lang="en-US" dirty="0"/>
           </a:p>
         </p:txBody>
       </p:sp>
@@ -54,10 +53,9 @@
           <a:lstStyle/>
           <a:p>
             <a:r>
-              <a:rPr lang="en-US" dirty="0" smtClean="0"/>
+              <a:rPr lang="en-US" dirty="0"/>
               <a:t>Some explanatory text</a:t>
             </a:r>
-            <a:endParaRPr lang="en-US" dirty="0"/>
           </a:p>
         </p:txBody>
       </p:sp>

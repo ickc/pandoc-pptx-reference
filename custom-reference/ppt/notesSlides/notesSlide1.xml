@@ -43,20 +43,20 @@
           <a:lstStyle/>
           <a:p>
             <a:r>
-              <a:rPr lang="en-US" dirty="0" smtClean="0"/>
+              <a:rPr lang="en-US" dirty="0"/>
               <a:t>Here</a:t>
             </a:r>
             <a:r>
-              <a:rPr lang="en-US" baseline="0" dirty="0" smtClean="0"/>
+              <a:rPr lang="en-US" baseline="0" dirty="0"/>
               <a:t> is a note</a:t>
             </a:r>
           </a:p>
           <a:p>
-            <a:endParaRPr lang="en-US" baseline="0" dirty="0" smtClean="0"/>
+            <a:endParaRPr lang="en-US" baseline="0" dirty="0"/>
           </a:p>
           <a:p>
             <a:r>
-              <a:rPr lang="en-US" baseline="0" dirty="0" smtClean="0"/>
+              <a:rPr lang="en-US" baseline="0" dirty="0"/>
               <a:t>With another paragraph.</a:t>
             </a:r>
             <a:endParaRPr lang="en-US" dirty="0"/>
