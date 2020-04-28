@@ -1,0 +1,12 @@
+unzip: custom-reference/
+
+# for git diff
+# tidy -xml
+# xmllint --format
+%/: %.pptx
+	rm -rf $@
+	unzip $< -d $@
+	find $@ \( -name '*.rels' -o -name '*.xml' \) -exec bash -c 'for file do xmllint --format "$$file" > "$$file.temp" && mv "$$file.temp" "$$file"; done' bash {} +
+
+clean:
+	rm -rf custom-reference/

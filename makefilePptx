@@ -1,0 +1,12 @@
+default: custom-reference.pptx
+
+%-tidy/: %/
+	rsync -av --stats --delete $< $@
+	minify --all --recursive -o $@ $<
+
+%.pptx: %-tidy/
+	cd $< && zip -r "../$@" .
+	rm -rf $<
+
+clean:
+	rm -f custom-reference.pptx custom-reference-tidy
