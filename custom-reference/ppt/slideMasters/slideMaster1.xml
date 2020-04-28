@@ -211,10 +211,9 @@
           <a:lstStyle/>
           <a:p>
             <a:r>
-              <a:rPr lang="en-US"/>
+              <a:rPr lang="en-US" dirty="0"/>
               <a:t>Click to edit Master title style</a:t>
             </a:r>
-            <a:endParaRPr lang="en-US" dirty="0"/>
           </a:p>
         </p:txBody>
       </p:sp>
@@ -245,38 +244,37 @@
           <a:p>
             <a:pPr lvl="0"/>
             <a:r>
-              <a:rPr lang="en-US"/>
+              <a:rPr lang="en-US" dirty="0"/>
               <a:t>Click to edit Master text styles</a:t>
             </a:r>
           </a:p>
           <a:p>
             <a:pPr lvl="1"/>
             <a:r>
-              <a:rPr lang="en-US"/>
+              <a:rPr lang="en-US" dirty="0"/>
               <a:t>Second level</a:t>
             </a:r>
           </a:p>
           <a:p>
             <a:pPr lvl="2"/>
             <a:r>
-              <a:rPr lang="en-US"/>
+              <a:rPr lang="en-US" dirty="0"/>
               <a:t>Third level</a:t>
             </a:r>
           </a:p>
           <a:p>
             <a:pPr lvl="3"/>
             <a:r>
-              <a:rPr lang="en-US"/>
+              <a:rPr lang="en-US" dirty="0"/>
               <a:t>Fourth level</a:t>
             </a:r>
           </a:p>
           <a:p>
             <a:pPr lvl="4"/>
             <a:r>
-              <a:rPr lang="en-US"/>
+              <a:rPr lang="en-US" dirty="0"/>
               <a:t>Fifth level</a:t>
             </a:r>
-            <a:endParaRPr lang="en-US" dirty="0"/>
           </a:p>
         </p:txBody>
       </p:sp>
@@ -323,43 +321,6 @@
       </p:sp>
       <p:sp>
         <p:nvSpPr>
-          <p:cNvPr id="5" name="Footer Placeholder 4"/>
-          <p:cNvSpPr>
-            <a:spLocks noGrp="1"/>
-          </p:cNvSpPr>
-          <p:nvPr>
-            <p:ph type="ftr" sz="quarter" idx="3"/>
-          </p:nvPr>
-        </p:nvSpPr>
-        <p:spPr>
-          <a:xfrm>
-            <a:off x="685800" y="6272785"/>
-            <a:ext cx="4745736" cy="365125"/>
-          </a:xfrm>
-          <a:prstGeom prst="rect">
-            <a:avLst/>
-          </a:prstGeom>
-        </p:spPr>
-        <p:txBody>
-          <a:bodyPr vert="horz" lIns="91440" tIns="45720" rIns="91440" bIns="45720" rtlCol="0" anchor="ctr"/>
-          <a:lstStyle>
-            <a:lvl1pPr algn="l">
-              <a:defRPr sz="1000">
-                <a:solidFill>
-                  <a:schemeClr val="accent1">
-                    <a:lumMod val="50000"/>
-                  </a:schemeClr>
-                </a:solidFill>
-              </a:defRPr>
-            </a:lvl1pPr>
-          </a:lstStyle>
-          <a:p>
-            <a:endParaRPr lang="en-US"/>
-          </a:p>
-        </p:txBody>
-      </p:sp>
-      <p:sp>
-        <p:nvSpPr>
           <p:cNvPr id="6" name="Slide Number Placeholder 5"/>
           <p:cNvSpPr>
             <a:spLocks noGrp="1"/>
@@ -394,6 +355,49 @@
               <a:rPr lang="en-US" smtClean="0"/>
               <a:t>‹#›</a:t>
             </a:fld>
+            <a:endParaRPr lang="en-US"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="7" name="Footer Placeholder 6">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{97227C5D-9D19-6D45-B02B-135B764D2EB5}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="ftr" sz="quarter" idx="3"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="3028950" y="6356350"/>
+            <a:ext cx="3086100" cy="365125"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr vert="horz" lIns="91440" tIns="45720" rIns="91440" bIns="45720" rtlCol="0" anchor="ctr"/>
+          <a:lstStyle>
+            <a:lvl1pPr algn="ctr">
+              <a:defRPr sz="1200">
+                <a:solidFill>
+                  <a:schemeClr val="tx1">
+                    <a:tint val="75000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+              </a:defRPr>
+            </a:lvl1pPr>
+          </a:lstStyle>
+          <a:p>
             <a:endParaRPr lang="en-US"/>
           </a:p>
         </p:txBody>
@@ -440,7 +444,7 @@
             </a:blip>
             <a:tile tx="6350" ty="-127000" sx="65000" sy="64000" flip="none" algn="tl"/>
           </a:blipFill>
-          <a:latin typeface="+mj-lt"/>
+          <a:latin typeface="Latin Modern Roman Caps 10" pitchFamily="2" charset="77"/>
           <a:ea typeface="+mj-ea"/>
           <a:cs typeface="+mj-cs"/>
         </a:defRPr>
@@ -460,11 +464,11 @@
         <a:buSzPct val="85000"/>
         <a:buFont typeface="Wingdings" pitchFamily="2" charset="2"/>
         <a:buChar char="§"/>
-        <a:defRPr sz="2000" kern="1200">
+        <a:defRPr sz="2000" kern="1200" baseline="0">
           <a:solidFill>
             <a:schemeClr val="tx1"/>
           </a:solidFill>
-          <a:latin typeface="+mn-lt"/>
+          <a:latin typeface="Latin Modern Sans 10" pitchFamily="2" charset="77"/>
           <a:ea typeface="+mn-ea"/>
           <a:cs typeface="+mn-cs"/>
         </a:defRPr>
@@ -485,11 +489,11 @@
         <a:buSzPct val="85000"/>
         <a:buFont typeface="Wingdings" pitchFamily="2" charset="2"/>
         <a:buChar char="§"/>
-        <a:defRPr sz="1800" kern="1200">
+        <a:defRPr sz="1800" kern="1200" baseline="0">
           <a:solidFill>
             <a:schemeClr val="tx1"/>
           </a:solidFill>
-          <a:latin typeface="+mn-lt"/>
+          <a:latin typeface="Latin Modern Sans 9" pitchFamily="2" charset="77"/>
           <a:ea typeface="+mn-ea"/>
           <a:cs typeface="+mn-cs"/>
         </a:defRPr>
@@ -510,11 +514,11 @@
         <a:buSzPct val="85000"/>
         <a:buFont typeface="Wingdings" pitchFamily="2" charset="2"/>
         <a:buChar char="§"/>
-        <a:defRPr sz="1600" kern="1200">
+        <a:defRPr sz="1600" kern="1200" baseline="0">
           <a:solidFill>
             <a:schemeClr val="tx1"/>
           </a:solidFill>
-          <a:latin typeface="+mn-lt"/>
+          <a:latin typeface="Latin Modern Sans 9" pitchFamily="2" charset="77"/>
           <a:ea typeface="+mn-ea"/>
           <a:cs typeface="+mn-cs"/>
         </a:defRPr>
@@ -535,11 +539,11 @@
         <a:buSzPct val="85000"/>
         <a:buFont typeface="Wingdings" pitchFamily="2" charset="2"/>
         <a:buChar char="§"/>
-        <a:defRPr sz="1600" kern="1200">
+        <a:defRPr sz="1600" kern="1200" baseline="0">
           <a:solidFill>
             <a:schemeClr val="tx1"/>
           </a:solidFill>
-          <a:latin typeface="+mn-lt"/>
+          <a:latin typeface="Latin Modern Sans 8" pitchFamily="2" charset="77"/>
           <a:ea typeface="+mn-ea"/>
           <a:cs typeface="+mn-cs"/>
         </a:defRPr>
@@ -560,11 +564,11 @@
         <a:buSzPct val="85000"/>
         <a:buFont typeface="Wingdings" pitchFamily="2" charset="2"/>
         <a:buChar char="§"/>
-        <a:defRPr sz="1600" kern="1200">
+        <a:defRPr sz="1600" kern="1200" baseline="0">
           <a:solidFill>
             <a:schemeClr val="tx1"/>
           </a:solidFill>
-          <a:latin typeface="+mn-lt"/>
+          <a:latin typeface="Latin Modern Sans 8" pitchFamily="2" charset="77"/>
           <a:ea typeface="+mn-ea"/>
           <a:cs typeface="+mn-cs"/>
         </a:defRPr>

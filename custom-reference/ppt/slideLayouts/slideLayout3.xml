@@ -291,6 +291,9 @@
             <a:off x="1636099" y="6272784"/>
             <a:ext cx="4745736" cy="365125"/>
           </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
         </p:spPr>
         <p:txBody>
           <a:bodyPr/>
